@@ -1,4 +1,6 @@
-# Starter for Craco/Typescript/Yarn2/Tailwindcss
+# Starter for Craco/Typescript/Yarn2/Tailwindcss/Zustand/Immer/React-Router
+
+I made this to save me some time since I like this setup... have to check it's up to date when using it for a new project.
 
 ### `yarn start`
 
