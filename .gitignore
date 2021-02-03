@@ -2,15 +2,15 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
 
+.eslintcache
 # testing
 /coverage
 
 # production
 /build
-
+.yarn/unplugged
+.yarn/build-state.yml
 # misc
 .DS_Store
 .env.local

@@ -1,0 +1,5 @@
+# Ignore artifacts:
+public
+build
+.yarn
+node_modules
