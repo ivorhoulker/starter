@@ -9,8 +9,12 @@
 
 # production
 /build
+
+
+#yarn 2
 .yarn/unplugged
 .yarn/build-state.yml
+
 # misc
 .DS_Store
 .env.local

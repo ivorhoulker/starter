@@ -1,59 +1,59 @@
 {
-  "name": "new-rpg",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@craco/craco": "^6.1.0",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "@types/jest": "^26.0.15",
-    "@types/node": "^12.0.0",
-    "@types/react": "^16.9.53",
-    "@types/react-dom": "^16.9.8",
-    "immer": "^8.0.1",
-    "postcss": "^8.2.4",
-    "postcss-preset-env": "^6.7.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
-    "taild": "^0.0.1",
-    "tailwindcss": "^2.0.2",
-    "tailwindcss-aspect-ratio": "^3.0.0",
-    "tailwindcss-filters": "^3.0.0",
-    "typescript": "^4.0.3",
-    "typescript-eslint": "^0.0.1-alpha.0",
-    "web-vitals": "^0.2.4",
-    "zustand": "^3.3.1"
-  },
-  "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
-    "eject": "react-scripts eject"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@nrwl/eslint-plugin-nx": "^11.2.9",
-    "@types/react-router-dom": "^5.1.7",
-    "@typescript-eslint/eslint-plugin": "^4.14.2",
-    "@typescript-eslint/parser": "^4.14.2",
-    "eslint-config-prettier": "^7.2.0",
-    "eslint-plugin-prettier": "^3.3.1",
-    "prettier": "^2.2.1",
-    "react-refresh": "^0.9.0"
-  }
+    "name": "starter",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@craco/craco": "^6.1.0",
+        "@testing-library/jest-dom": "^5.11.4",
+        "@testing-library/react": "^11.1.0",
+        "@testing-library/user-event": "^12.1.10",
+        "@types/jest": "^26.0.15",
+        "@types/node": "^12.0.0",
+        "@types/react": "^16.9.53",
+        "@types/react-dom": "^16.9.8",
+        "immer": "^8.0.1",
+        "postcss": "^8.2.4",
+        "postcss-preset-env": "^6.7.0",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-router": "^5.2.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "4.0.1",
+        "taild": "^0.0.1",
+        "tailwindcss": "^2.0.2",
+        "tailwindcss-aspect-ratio": "^3.0.0",
+        "tailwindcss-filters": "^3.0.0",
+        "typescript": "^4.0.3",
+        "typescript-eslint": "^0.0.1-alpha.0",
+        "web-vitals": "^0.2.4",
+        "zustand": "^3.3.1"
+    },
+    "scripts": {
+        "start": "craco start",
+        "build": "craco build",
+        "test": "craco test",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@nrwl/eslint-plugin-nx": "^11.2.9",
+        "@types/react-router-dom": "^5.1.7",
+        "@typescript-eslint/eslint-plugin": "^4.14.2",
+        "@typescript-eslint/parser": "^4.14.2",
+        "eslint-config-prettier": "^7.2.0",
+        "eslint-plugin-prettier": "^3.3.1",
+        "prettier": "^2.2.1",
+        "react-refresh": "^0.9.0"
+    }
 }

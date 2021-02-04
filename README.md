@@ -2,6 +2,8 @@
 
 I made this to save me some time since I like this setup... have to check it's up to date when using it for a new project.
 
+Set up to work with zero installs, pnp in yarn 2 - so just clone and run `yarn start`.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
